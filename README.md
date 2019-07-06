@@ -2,6 +2,8 @@
 
 > React app to search Github profiles. This app was built for practicing the usage of the Context API along with the useContext and useReducer hooks for state management and is part of the "Modern React Front To Back" Udemy course.
 
+You can see the app [here](https://githubfinder239008.netlify.com/).
+
 ## Usage
 
 ### `npm install`
